@@ -16,6 +16,9 @@ Angular Routing
 2- Run command `npm install`
 3- Run command `npm start`
 ```
+## Built with
+
+*- [Angular](https://github.com/angular/angular) - [Licence](https://opensource.org/licenses/MIT) 
 
 #Enjoy it. ;)
 
