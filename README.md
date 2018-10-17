@@ -1,6 +1,6 @@
-#This is a template to get started in Angular.
+### This is a template to get started in Angular.
 
-#Features!
+### Features!
 ```
 Angular 4.2.4
 Bootstrap 4.0.0-beta
