@@ -1,4 +1,5 @@
-### This is a template to get started in Angular.
+### Angular template.
+This is a template to get started in Angular.
 
 ### Features!
 ```
